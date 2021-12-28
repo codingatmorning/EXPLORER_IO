@@ -1,2 +1,2 @@
 # EXPLORER_IO
-![](./index.html)
+play the game here https://codingatmorning.github.io/EXPLORER_IO/
